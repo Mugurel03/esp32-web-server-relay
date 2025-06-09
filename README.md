@@ -8,7 +8,7 @@ Control two relays with an ESP32 via physical buttons and a web interface. The p
 
 
 ## WebServer ESP32
-<img src="relay-web-server.jpg" alt="Wiring Diagram" width="400"/>
+<img src="relay-web-server.png" alt="Relay Web Server" width="400"/>
 
 ---
 ## Hardware
