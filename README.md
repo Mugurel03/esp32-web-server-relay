@@ -3,7 +3,14 @@
 Control two relays with an ESP32 via physical buttons and a web interface. The project supports toggling relays with hardware buttons or through a mobile-friendly web UI showing real-time relay status.
 
 ---
+## Wired ESP32
+<img src="relay-wired.jpg" alt="Wiring Diagram" width="400"/>
 
+
+## WebServer ESP32
+<img src="relay-web-server.jpg" alt="Wiring Diagram" width="400"/>
+
+---
 ## Hardware
 
 - **ESP32 Development Board**  
